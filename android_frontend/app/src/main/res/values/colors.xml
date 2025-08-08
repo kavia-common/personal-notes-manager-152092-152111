@@ -1,0 +1,16 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_90">#1A1A1A</color>
+    <color name="gray_70">#4D4D4D</color>
+    <color name="gray_50">#808080</color>
+    <color name="gray_30">#B3B3B3</color>
+    <color name="gray_10">#E5E5E5</color>
+    <!-- Named aliases for UI roles (must be hex, not references) -->
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#1A1A1A</color>
+    <color name="colorAccent">#808080</color>
+    <color name="colorSecondary">#B3B3B3</color>
+    <color name="textPrimary">#000000</color>
+    <color name="noteBg">#FFFFFF</color>
+</resources>
