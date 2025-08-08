@@ -6,13 +6,14 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:colorBackground">@color/white</item>
         <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColor">@color/textPrimary</item>
         <item name="android:windowLightStatusBar">true</item>
         <item name="android:windowContentTransitions">true</item>
         <item name="android:windowActionBar">false</item>
     </style>
 
     <style name="NoteItemStyle">
-        <item name="android:background">@color/noteBg</item>
+        <item name="android:background">@color/gray_10</item>
         <item name="android:padding">16dp</item>
         <item name="android:textColor">@color/textPrimary</item>
     </style>

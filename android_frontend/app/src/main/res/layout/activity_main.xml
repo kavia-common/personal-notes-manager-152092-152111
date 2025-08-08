@@ -23,8 +23,8 @@
         android:layout_gravity="end|bottom"
         android:layout_margin="24dp"
         app:srcCompat="@android:drawable/ic_input_add"
-        android:tint="@color/white"
-        app:backgroundTint="@color/colorPrimary"
+        android:tint="@color/black"
+        app:backgroundTint="@color/gray_30"
         android:contentDescription="@string/new_note" />
 
 </LinearLayout>

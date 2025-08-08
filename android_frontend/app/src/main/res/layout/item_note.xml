@@ -21,7 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/textPrimary"
             android:textStyle="bold"
             android:maxLines="1"
             android:ellipsize="end" />
@@ -32,14 +32,14 @@
             android:layout_height="wrap_content"
             android:maxLines="2"
             android:ellipsize="end"
-            android:textColor="@color/textPrimary"
+            android:textColor="@color/gray_70"
             android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <TextView
             android:id="@+id/noteTimestamp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/colorSecondary"
+            android:textColor="@color/gray_50"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:layout_marginTop="4dp"
             android:textStyle="italic" />
